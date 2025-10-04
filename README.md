@@ -21,6 +21,10 @@ Get ready to wire up the world and power your way to victory!
 
 💡 Challenges & Learning  
 
+- 📐 **Challenge:** Creating a diagonal grid system for wiring.  
+  - ❌ Initially failed multiple times while trying with scripts and mapping approaches.  
+  - ✅ **Solution:** Achieved the diagonal grid by working creatively with Unity sprites instead of pure script-based mapping, which finally made it possible.  
+
 - 🔌 **Challenge:** Designing a wiring system that feels intuitive yet challenging.  
   - ✅ **Solution:** Built a connection system that visually shows active links between power sources and targets.  
 
